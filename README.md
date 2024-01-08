@@ -2,15 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+A simple, easy to use grocery store app for day to day use.
 
-A few resources to get you started if this is your first Flutter project:
+## Get Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Clone this repo using git clone https://github.com/Riveen/grocery-app.git
+- Configure the dependecies using 'flutter pub get'
